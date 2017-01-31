@@ -5,6 +5,7 @@ date-card: 2017-01-30
 date-source: 2013-04-29
 tags: 
 - password
+- risk assessment
 ---
 
 As Thomas Baekdal wrote back in 2007, a password that’s just a series of words can be “both highly secure and user-friendly.” But this scheme, as well as other password design tropes like using symbols for complexity, does not pass muster at many sites that specify an upper limit for password length.
