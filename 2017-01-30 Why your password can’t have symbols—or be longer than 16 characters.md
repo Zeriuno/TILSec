@@ -36,4 +36,4 @@ AT&T told users do not like to type spaces on mobiles, and some words (profaniti
 * About password cracking: http://arstechnica.com/security/2013/03/how-i-became-a-password-cracker/
 * Stackoverflow thread discussing Microsoft's explanation: http://stackoverflow.com/questions/98768/should-i-impose-a-maximum-length-on-passwords
 * Profanities unallowed in passwords: http://arstechnica.com/security/2013/04/wtf-ats-profane-password-ban-lets-some-swears-through/
-* advances in cracking passwords: http://arstechnica.com/security/2012/08/passwords-under-assault/
+* Advances in cracking passwords: http://arstechnica.com/security/2012/08/passwords-under-assault/
