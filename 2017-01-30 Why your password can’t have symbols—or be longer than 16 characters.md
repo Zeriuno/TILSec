@@ -1,8 +1,8 @@
 --- 
 title: Why your password can’t have symbols—or be longer than 16 characters
-url-text: https://arstechnica.com/security/2013/04/why-your-password-cant-have-symbols-or-be-longer-than-16-characters/
+url-source: https://arstechnica.com/security/2013/04/why-your-password-cant-have-symbols-or-be-longer-than-16-characters/
 date-card: 2017-01-30
-date-text: 2013-04-29
+date-source: 2013-04-29
 tags: 
 - password
 ---

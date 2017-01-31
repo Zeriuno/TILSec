@@ -4,7 +4,10 @@ url-source: https://www.schneier.com/blog/archives/2017/01/class_breaks.html
 date-card: 2017-01-31
 date-source: 2017-01-03
 tags: 
-- password
+- iot
+- resilience
+- risk management
+- vulerability
 ---
 Short: While computable and connected systems are entering new domains (daily life objects), it is important to remember that they are vulnerable to class breaks and thus can suddenly be hacked and become unsecure and dangerous. While we search for systems resilients to class breaks, it is important to apply the precautionary principle and correctly manage this risks.
 
